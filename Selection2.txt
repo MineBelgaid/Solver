@@ -1,0 +1,4 @@
+program selection;
+var 
+    sel:char;
+begin
